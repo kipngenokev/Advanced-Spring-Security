@@ -1,4 +1,4 @@
-package com.kipngeno.SpringSecurity;
+package com.kipngeno.SpringSecurity.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

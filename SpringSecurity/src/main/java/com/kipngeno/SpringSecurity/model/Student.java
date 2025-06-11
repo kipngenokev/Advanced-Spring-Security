@@ -1,4 +1,4 @@
-package com.kipngeno.SpringSecurity;
+package com.kipngeno.SpringSecurity.model;
 
 public class Student {
     private int id;
